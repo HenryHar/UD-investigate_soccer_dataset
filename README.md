@@ -17,6 +17,6 @@ License: You may use any part of my work/code unless you are a fellow Udacity st
 
 Expected revisions:  These changes are expected in the near future:
 
--Using the sqlite3 library directly in my code to reduce the number of csv files
--Updating and shortening the algorithm from [1] to [12], this can be done using the np.mean() and pandas.groupby functions. At the time of starting this project I was relatively new and inexperienced with these libraries.
+-importing a SQL library directly in my code to reduce the number of csv files
+-Updating and shortening the algorithm from [1] to [12]. At the time of starting this project I was relatively new and inexperienced with these libraries.
 -Updating the analysis towards the end of the project. I hadn't learned regression and multiple regression at the time of completing the project.
