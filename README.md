@@ -1,6 +1,7 @@
 # UD-investigate_soccer_dataset
 This repository contains my first python project submitted as part of Udacity's (UD) Data Analyst Nanodegree program
 
+July 22, 2019 note: this was the first big major data project I conducted in Oct-Nov 2018 and as such a lot of the code can be optimized and cleaned up because I have a learned a lot since then.
 
 Included files:
 1. soccer_data_investigation.html      ==> this is an HTML file consisting of the project and it's results
